@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <img src="" width="200" alt="Profile Picture">
+    <img src="https://media.licdn.com/dms/image/v2/D4E03AQGwxRH4OoHNDw/profile-displayphoto-shrink_400_400/B4EZWDdxcqHMAk-/0/1741667381729?e=1747267200&v=beta&t=CXn7I4XCVyCIoC_Fx8UC-ZA6CU1e1QKHhSWYsevgmSo" width="200" alt="Profile Picture">
 </p>
 
 # 👋 Hi, I'm **Arya Teja M**
