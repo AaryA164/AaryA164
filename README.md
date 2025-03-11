@@ -128,7 +128,7 @@ D) "string"
 
 ## 🌟 Let's Connect & Learn Together!
 🔗 **GitHub:** [AaryA164](https://github.com/AaryA164)  
-📧 **Email:** poornateja0079@gmail.com  
+📧 **Email:** aryateja1969@gmail.com  
 💼 **LinkedIn:** [Your LinkedIn]()  
 🌐 **Portfolio:** [Coming Soon... ⏳]
 
