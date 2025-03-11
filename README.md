@@ -33,8 +33,7 @@ Click the image below to play the game!
 
 ### 🌐 Web Development (Still Learning... 🚀)  
 ✅ HTML, CSS, JavaScript  
-✅ BootStrap
-✅ SQL
+✅ BootStrap, SQl
 
 ### 🤖 AI & Machine Learning (Novice, but Super Excited! ⚡)  
 🟡 Python, Pandas, NumPy  
