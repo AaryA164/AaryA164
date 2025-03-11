@@ -12,7 +12,7 @@
     <img src="https://media.licdn.com/dms/image/v2/D5603AQE_sflwk3ZYnQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1704901889595?e=2147483647&v=beta&t=evdnYrFdgnsEAtM_Xo6qbLPVXFAoNG0HbpK_-3aH9_M" width="200" alt="Profile Picture">
 </p>
 
-# 👋 Hi, I'm **Poorna Teja Reddy K**
+# 👋 Hi, I'm **Arya Teja M**
 
 🎓 **Computer Science & Engineering (AIML) Student** | 🚀 **Aspiring Software Developer** | 🤖 **AI & Web Enthusiast**  
 🌱 **Constantly Learning New Technologies** | 🌍 **Based in Bengaluru, India**
@@ -33,14 +33,13 @@ Click the image below to play the game!
 
 ### 🌐 Web Development (Still Learning... 🚀)  
 ✅ HTML, CSS, JavaScript  
-✅ React.js, Node.js, Express.js  
-✅ MongoDB, MySQL  
-✅ Git & GitHub  
+✅ BootStrap
+✅ SQL
 
 ### 🤖 AI & Machine Learning (Novice, but Super Excited! ⚡)  
 🟡 Python, Pandas, NumPy  
 🟡 Exploring Machine Learning Algorithms  
-🟡 Flask for AI-Powered APIs  
+🟡 Django, Flask for AI-Powered APIs  
 
 ### 💻 Programming Languages (Strengthening the Core 💪)  
 🟢 JavaScript  
@@ -59,8 +58,8 @@ Click the image below to play the game!
 ## 📊 GitHub Stats (Loading... ⏳):
 <table>
     <tr>
-        <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Poornatejareddy&show_icons=true&theme=radical" alt="GitHub Stats"/></td>
-        <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poornatejareddy&theme=radical&langs_count=8" alt="Top Languages"/></td>
+        <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=AaryA164&show_icons=true&theme=radical" alt="GitHub Stats"/></td>
+        <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryA164&theme=radical&langs_count=8" alt="Top Languages"/></td>
     </tr>
 </table>
 
@@ -69,7 +68,7 @@ Click the image below to play the game!
 ## 🚀 My Tech Journey Progress 📈  
 
 ### 🌐 Web Development (Beginner 🌱)  
-![Web Development](https://geps.dev/progress/30?dangerColor=800000&warningColor=ff9900&successColor=006600)  
+![Frontend](https://geps.dev/progress/30?dangerColor=800000&warningColor=ff9900&successColor=006600)  
 
 ### 🤖 AI & Machine Learning (Beginner 🤖)  
 ![AI & Machine Learning](https://geps.dev/progress/20?dangerColor=800000&warningColor=ff9900&successColor=006600)  
@@ -128,9 +127,9 @@ D) "string"
 ---
 
 ## 🌟 Let's Connect & Learn Together!
-🔗 **GitHub:** [Poornatejareddy](https://github.com/Poornatejareddy)  
+🔗 **GitHub:** [AaryA164](https://github.com/AaryA164)  
 📧 **Email:** poornateja0079@gmail.com  
-💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/k-poorna-teja-reddy-401650200/)  
+💼 **LinkedIn:** [Your LinkedIn]()  
 🌐 **Portfolio:** [Coming Soon... ⏳]
 
 ✨ *Always learning, always growing! Let's build something amazing together!* 🚀
