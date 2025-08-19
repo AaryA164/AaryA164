@@ -82,8 +82,13 @@
 ## 🎮 Let's Play a Game  
 <p align="center">⚡ Watch your contribution graph turn into a Snake 🐍</p>
 <p align="center">
-  <img src="https://github.com/aryatejam/aryatejam/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AaryA164/AaryA164/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/AaryA164/AaryA164/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/AaryA164/AaryA164/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  </picture>
 </p>
+
 
 ---
 
