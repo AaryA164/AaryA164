@@ -85,6 +85,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryA164&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+## 🐍 Contribution Snake
+![GitHub Snake](https://raw.githubusercontent.com/AaryA164/AaryA164/output/snake.svg)
 
 ---
 
