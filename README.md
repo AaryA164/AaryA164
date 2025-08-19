@@ -71,11 +71,20 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryatejam&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryatejam&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AaryA164&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaryA164&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryA164&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 
 ---
 
