@@ -84,8 +84,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AaryA164&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AaryA164&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" width="220"/>
+  <br/>
+  <img src="https://profile-counter.glitch.me/AaryA164/count.svg" alt="Visitor Count" width="250"/>
 </p>
+
 
 ---
 
