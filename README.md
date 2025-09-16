@@ -7,10 +7,8 @@
   <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1700286332983/0d08fff8-f535-4387-96d6-5f65c0706c03.gif" width="325" alt="AWS Gif" style="border: 4px solid #FF9900; border-radius: 15px; box-shadow: 0px 0px 20px #FF9900;">
 </p>
 
-<h1 align="center">Hi 👋, I'm Arya Teja M (aka BOSS)</h1>
+<h1 align="center">Hi 👋, I'm Arya Teja M </h1>
 <h3 align="center">🚀 Python Full Stack Developer | ☁️ Cloud Engineer (AWS) | 💡 Innovator</h3>
-
-
 
 ---
 
@@ -78,28 +76,28 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaryA164&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=AaryA164&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryA164&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-## 🐍 Contribution Snake
-![GitHub Snake](https://raw.githubusercontent.com/AaryA164/AaryA164/output/snake.svg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AaryA164&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-## 🎮 Let's Play a Game  
-<p align="center">⚡ Watch your contribution graph turn into a Snake 🐍</p>
+## 🐍 Contribution Snake
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AaryA164/AaryA164/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/AaryA164/AaryA164/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/AaryA164/AaryA164/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AaryA164/AaryA164/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AaryA164/AaryA164/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/AaryA164/AaryA164/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
 
 ---
 
@@ -114,4 +112,5 @@
 </p>
 
 ---
-✨ *"Code. Build. Deploy. Repeat."* 🚀  
+
+✨ *"Code. Build. Deploy. Repeat."* 🚀
