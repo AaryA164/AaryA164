@@ -84,11 +84,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AaryA164&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" width="220"/>
+  <!-- Stylish Bigger Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=AaryA164&label=👀%20Profile%20Visitors&color=ff5733&style=for-the-badge" alt="Profile Views" width="220"/>
   <br/>
+  <!-- Live Animated Counter -->
   <img src="https://profile-counter.glitch.me/AaryA164/count.svg" alt="Visitor Count" width="250"/>
 </p>
-
 
 ---
 
